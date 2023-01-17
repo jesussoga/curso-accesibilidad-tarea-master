@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+/* Fuente bonita, pero no muy accesible. No se lee fácil. Quizás estaría mejor poner otro tipo de fuente */
+.fuente-bonita {
+    font-family: 'Inspiration', cursive;
+}
+
+.fuente-muy-chica {
+    font-size: xx-small;
+}
+
+body {
+    background-color: #dadada;
+}
+
+.avatar {
+    width: 4rem;
+}
